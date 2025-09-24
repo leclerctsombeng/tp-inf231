@@ -1,4 +1,4 @@
-# Suivi personnel – INF231_EC2
+## Suivi personnel – INF231_EC2
 
 Nom : NGANOU JIONGO LOÏC 
 Matricule :23U2708
